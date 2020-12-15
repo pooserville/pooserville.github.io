@@ -90,7 +90,6 @@ li {
 }
 #left-sidebar {
     background-color:darkorange;
-    /*border: solid black 1px;*/
     padding-left:2px;
     padding-right:2px;
     color:black;
@@ -104,4 +103,5 @@ li {
 }
 #finalgraf {
     padding-bottom:8px;
+    /*this fixed a problem where the text butted right against the background image and looked rough*/
 }
